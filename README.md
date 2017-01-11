@@ -6,8 +6,8 @@ A devkit based on Gulp 4, Emitty and [brnmonteiro](https://github.com/brnmonteir
 
 ## Prerequisites
 
-* **npm **4.0+
-* **node **4.2+
+* **npm** 4.0+
+* **node** 4.2+
 
 ## Configuration
 
