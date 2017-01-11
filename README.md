@@ -1,6 +1,7 @@
-# Piramid Studio Devkit
+#
+Piramid Studio Devkit
 
-A devkit based on Gulp 4, Emitty and [brnmonteiro](https://github.com/brnmonteiro)/[**codekit-gulp**](https://github.com/brnmonteiro/codekit-gulp). This tool is usefull for preprocess Jade/PUG, Stylus and JS. Browser sync, Bower utilities and other awesome stuff are included. Check gulpfile.js and package.json in order to deepen. We'd love contributions and coffee makes us develop better!
+A devkit based on Gulp 4, Emitty and [brnmonteiro](https://github.com/brnmonteiro)/[**codekit-gulp**](https://github.com/brnmonteiro/codekit-gulp). This tool is usefull for preprocess Jade/PUG, Stylus and JS. Browser sync, Bower utilities and other awesome stuff are included. Check gulpfile.js and package.json in order to deepen. We love contributions. **No license or assignment is required. If you want you can give us some coffee to makes us better developer and to improve our English!**
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T24D53W3WYWHJ)
 
@@ -22,7 +23,9 @@ Clone our repo in your app/ folder, using:
 ```
 git clone https://github.com/PiramidStudio/piramid_devkit.git
 cd piramid_devkit
-npm install --save-dev
+npm install
+bower install
+gulp build
 ```
 
 or
@@ -30,7 +33,9 @@ or
 ```
 git clone git@github.com:PiramidStudio/piramid_devkit.git
 cd piramid_devkit
-npm install --save-dev
+npm install
+bower install
+gulp build
 ```
 
 ## Basic usage
@@ -67,5 +72,5 @@ Run following tasks:
 
 ## Configuration
 
-You can edit package.json
+You can change the package.json file to fit better to your environment.
 More specs in progress. Stay tuned!
