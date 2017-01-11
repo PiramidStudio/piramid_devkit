@@ -1,0 +1,25 @@
+{
+  "name": "Application",
+  "description": "Application Description",
+  "main": "index.html",
+  "authors": [
+    "enrico@piramid.studio"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Piramid",
+    "Studio"
+  ],
+  "dependencies": {
+    "enquire": "latest"
+  },
+  "homepage": "https://github.com/PiramidStudio/piramid_devkit/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
