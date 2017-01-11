@@ -4,6 +4,11 @@ A devkit based on Gulp 4, Emitty and [brnmonteiro](https://github.com/brnmonteir
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T24D53W3WYWHJ)
 
+## Prerequisites
+
+* **npm **4.0+
+* **node **4.2+
+
 ## Configuration
 
 ```
