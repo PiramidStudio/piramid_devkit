@@ -1,6 +1,6 @@
 # Piramid Studio Devkit
 
-A devkit based on Gulp 4, Emitty and [brnmonteiro](https://github.com/brnmonteiro)/[**codekit-gulp**](https://github.com/brnmonteiro/codekit-gulp). This tool is usefull for preprocess Jade/PUG, Stylus and JS. Browser sync, Bower utilities and other awesome stuff are included. Check gulpfile.js and package.json in order to deepen. We love contributions. **No license or assignment is required. If you want you can give us some coffee to makes us better developer and to improve our English!**
+A devkit based on Gulp 4, Emitty and ispired by  [brnmonteiro](https://github.com/brnmonteiro)/[**codekit-gulp**](https://github.com/brnmonteiro/codekit-gulp). This tool is usefull for preprocess Jade/PUG, Stylus and JS. Browser sync, Bower utilities and other awesome stuff are included. Check gulpfile.js and package.json in order to deepen. We love contributions. **No license or assignment is required. If you want you can give us some coffee to makes us better developer and to improve our English!**
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T24D53W3WYWHJ)
 
